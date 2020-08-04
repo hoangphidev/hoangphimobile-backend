@@ -9,9 +9,9 @@
 
 ## Config project
 
-- Load composer: composer install
-- Create file .env: cp .env.example .env
-- Generate key: php artisan key:generate
+- Load composer: *composer install*
+- Create file .env: *cp .env.example .env*
+- Generate key: *php artisan key:generate*
 
 ## About Laravel
 
